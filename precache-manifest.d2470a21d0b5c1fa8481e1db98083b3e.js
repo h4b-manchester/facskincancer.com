@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/festival-safe-logo.9e319ea4.png"
   },
   {
-    "revision": "6fab08a6b56907a371dc",
+    "revision": "f98c045f9dfc5bc6057b",
     "url": "/static/css/main.7516a47a.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/static/media/fac50-logo.071fec86.svg"
   },
   {
-    "revision": "6fab08a6b56907a371dc",
-    "url": "/static/js/main.5e698158.chunk.js"
+    "revision": "f98c045f9dfc5bc6057b",
+    "url": "/static/js/main.fd407b9c.chunk.js"
   },
   {
     "revision": "de32b2de09533265ec615653862df773",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/static/media/menu-open.b2054205.png"
   },
   {
-    "revision": "df1bad84f8ac17b4d5f736bf63efe270",
+    "revision": "ad3ac97ba45fb0e32d2468e058649ce2",
     "url": "/index.html"
   }
 ];
